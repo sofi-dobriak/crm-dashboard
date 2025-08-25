@@ -99,5 +99,15 @@
     width: 42px;
     height: 42px;
     margin: 0 auto;
+
+    @include mx.mq('lg') {
+      width: 26px;
+      height: 26px;
+    }
+
+    @include mx.mq('xl') {
+      width: 42px;
+      height: 42px;
+    }
   }
 }
