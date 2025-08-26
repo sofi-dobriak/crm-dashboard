@@ -13,10 +13,14 @@ The project helped me learn how to:
 
 ⚡ The main idea is to create a CRM-style dashboard with a clean design and a well-structured component layout.
 
+---
+
 🔧 Technologies used:
 
 - HTML5
 - CSS3 / SCSS
+
+---
 
 🚀 This project is educational and demonstrates my basic understanding of how Sass can be applied in real development.
 
